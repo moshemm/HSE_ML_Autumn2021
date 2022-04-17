@@ -1,16 +1,2 @@
 # NY_taxi_fare
-Репозиторий с блокнотами по соревнованию [NY Taxi Fare Prediction](https://www.kaggle.com/c/new-york-city-taxi-fare-prediction/overview), 27.11.2021
-
-Предлагаю нумеровать блокноты и презы по командам.
-
-## Список по командам
-1. Веркеенко Александр, Тимушкин Константин, Чернов Александр, Васюченко Евгений
-2. Ивойлова Саша, Мичурина Маша, Бояр Владислав
-3. Чернышова Мария, Золотько Мария, Салихов Максим
-5. Нагайцев Максим
-6. Тюрина Мила
-7. Факторович Елена
-8. Зубков Саша, Демкина Виктория, Беликова Наталья
-9. Лукошков Никита, Луговая Оксана
-10. Торосьян Карен
-11. Нарушев Илья, Клявлин Андрей
+This is a HW for [HSE ML Course](https://github.com/Murcha1990/DPO_ML_Autumn2021). The notebook and slides made by our team present some data analysis and ML algorithms for [NY Taxi Fare Prediction](https://www.kaggle.com/c/new-york-city-taxi-fare-prediction/overview) competition.
